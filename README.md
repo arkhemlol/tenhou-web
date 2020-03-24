@@ -1,0 +1,2 @@
+# tenhou-web
+Mahjong web
